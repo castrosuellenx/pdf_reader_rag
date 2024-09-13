@@ -1,3 +1,4 @@
 .idea
 .env
 .venv
+generated_vector_db
